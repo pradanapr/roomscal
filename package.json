@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "googleapis": "^20.1.0",
     "ical-expander": "^1.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.13",
     "node-google-calendar": "^1.0.0",
     "precss": "^2.0.0",
